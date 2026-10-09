@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"ValidatorTest::testValidAge":0,"ValidatorTest::testEmptyAgeThrowsException":0,"ValidatorTest::testNegativeAgeThrowsException":0,"ValidatorTest::testValidName":0,"ValidatorTest::testEmptyNameThrowsException":0,"ValidatorTest::testNameWithNumbersThrowsException":0}}
